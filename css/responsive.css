@@ -33,4 +33,9 @@
         font-size: 14px;
         width: 30%;
     }
+
+    header .navbar ul.ml-auto li a,
+    header .navbar ul.mr-auto li a {
+        font-size: 14px;
+    }
 }
