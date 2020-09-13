@@ -1,0 +1,237 @@
+body {
+    background: #F4F4F4 0% 0% no-repeat padding-box;
+    opacity: 1;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    margin: 0;
+}
+
+.container-fluid {
+    width: 90%;
+}
+
+header .navbar-light .navbar-brand {
+    text-align: left;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: #2462ED;
+    opacity: 0.3;
+    font-family: 'Roboto', sans-serif;
+
+    text-transform: uppercase;
+}
+
+header .navbar ul.mr-auto li a {
+    text-align: left;
+    font: 20px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #333F52;
+    opacity: 1;
+    margin: 0px 20px;
+
+}
+
+header .navbar ul.ml-auto li a:active,
+header .navbar ul.ml-auto li a.active {
+    color: #2462ED;
+}
+
+header .navbar ul.ml-auto li a {
+    text-align: left;
+    font-size: 20px;
+
+    letter-spacing: 0px;
+    opacity: 1;
+    color: #333F52;
+    margin: 0px 20px;
+
+}
+
+header .navbar ul.ml-auto button {
+    background: #2462ED;
+    border-radius: 2px;
+    opacity: 1;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+
+    opacity: 1;
+}
+
+h3 {
+    text-align: left;
+    font-size: 30px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: #333F52;
+    opacity: 1;
+}
+
+.bodySection1 p,
+.bodySection2 p {
+    text-align: left;
+    font-size: 22px;
+    letter-spacing: 0px;
+    color: #333F52;
+    opacity: 1;
+}
+
+.bodySection1 p.amount {
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #2462ED;
+    opacity: 1;
+}
+
+.bodySection1 p.did_you_know span {
+    opacity: 1;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #333F52;
+    background: #E6EBFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.bodySection1 p span b {
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #2462ED;
+}
+
+.bodySection1 .nav-pills .nav-link {
+    font-size: 26px;
+    letter-spacing: 0px;
+    color: #333F52;
+    opacity: 0.3;
+    background: transparent;
+    font-weight: bold;
+}
+
+.bodySection1 .nav-pills .nav-link.active {
+    font-size: 26px;
+    letter-spacing: 0px;
+    color: #2462ED;
+    opacity: 1;
+    /* text-decoration: underline; */
+    border-bottom: 3px solid;
+    border-radius: 0;
+}
+
+.bodySection1 .irs--big .irs-line,
+.bodySection1 .irs--big .irs-bar {
+    height: 0;
+}
+
+.bodySection1 .irs--big .irs-handle {
+    top: 15px;
+    width: 30px;
+    height: 40px;
+    background: #2462ED 0% 0% no-repeat padding-box;
+    border-radius: 28px;
+    box-shadow: none;
+}
+
+.bodySection1 .irs-with-grid .irs-grid {
+    display: none;
+}
+
+.irs--big .irs-from,
+.irs--big .irs-to,
+.irs--big .irs-single,
+.irs--big .irs-min,
+.irs--big .irs-max {
+    display: none;
+}
+
+.bodySection1 #pills-tabContent button.active {
+    background: #2462ED 0% 0% no-repeat padding-box;
+    border: 1px solid #2462ED;
+    color: #FFFFFF;
+}
+
+.bodySection1 #pills-tabContent button {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #BEC4CC;
+    border-radius: 60px;
+    opacity: 1;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #BEC4CC;
+    padding: 10px 40px;
+    opacity: 1;
+}
+
+.bodySection1 button.investment_button {
+    background: #2462ED 0% 0% no-repeat padding-box;
+    border-radius: 2px;
+    opacity: 1;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bodySection1 .investment_button_check {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #2462ED;
+    border-radius: 2px;
+    opacity: 1;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #2462ED;
+    opacity: 1;
+}
+
+.bodySection1 a {
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #2462ED;
+    opacity: 1;
+}
+
+.bodySection2 {
+    background: #E8ECF4 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.bodySection2 h5 {
+    font-size: 28px;
+    letter-spacing: 0px;
+    color: #333F52;
+    opacity: 1;
+    font-weight: 600;
+}
+
+.bodySection2 button {
+    background: #2462ED 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bodySection2 input {
+    font-size: 24px;
+    letter-spacing: 0px;
+    color: #333F52;
+    font-weight: 600;
+    border: none;
+    border-bottom: 3px solid #2462ED;
+}

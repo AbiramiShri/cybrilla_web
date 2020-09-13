@@ -1,0 +1,36 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    p {
+        margin: 0;
+    }
+
+    .container-fluid {
+        width: 100%;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    .bodySection1 p,
+    .bodySection2 p {
+        font-size: 14px;
+    }
+
+    .bodySection1 #pills-tabContent button {
+        padding: 10px 20px;
+        font-size: 22px;
+    }
+
+    .bodySection1 p.amount {
+        font-size: 20px;
+    }
+
+    .bodySection2 h5 {
+        font-size: 18px;
+    }
+
+    .bodySection2 input {
+        font-size: 14px;
+        width: 30%;
+    }
+}
